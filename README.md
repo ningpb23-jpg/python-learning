@@ -2,8 +2,6 @@
 
 Python 学习笔记和练习项目。当前包含一个使用 Tkinter 绘制的跳动粒子爱心。
 
-![爱心动画预览](heart_preview.gif)
-
 ## 运行爱心动画
 
 当前开发环境为 Python 3.13。代码仅使用 Python 标准库，无需安装第三方依赖；Python 环境需要包含 Tkinter 支持。
@@ -28,5 +26,3 @@ python beating_heart.py
 ## 文件说明
 
 - `beating_heart.py`：爱心动画程序。
-- `heart_preview.gif`：动画预览。
-- `heart_preview.png`：静态预览。
